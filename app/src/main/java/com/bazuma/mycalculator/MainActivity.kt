@@ -113,6 +113,7 @@ class MainActivity : AppCompatActivity() {
     lastNumeric=false this is because there is already a digit display
     lastDot=true because we have click dot hence will be true
        * */
+    what is problem with you
     fun onDecimalPoint(view: View){
         if (lastNumeric && !lastDot){
             tvinput.append(".")
