@@ -15,8 +15,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("Commit 23 in add")
-        println("This line merge in verBaz 21")
+
+
+        println("Android  and iOs is awesome")
+
+
     }
     //step 6
     /*
