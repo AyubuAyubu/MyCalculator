@@ -15,8 +15,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("Commit 2 in add")
-        println("This line will be merge in verBaz")
+        println("Commit 23 in add")
+        println("This line will they be merge in verBaz")
     }
     //step 6
     /*
